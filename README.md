@@ -26,3 +26,14 @@ The E2E process for the project we will be working on would be:
 * **Generate a file:** Pre-process, consolidate, and save the scan as a single file.
 * **Process the file & Point Cloud:** Use Open3D (or alternatively PCL) for loading the pointcloud scans and processing it.
 * **Visualize the results:** Using visualizers like Matplotlib or Plotly visualize the pointclouds.
+
+## Sensing using a LiDAR
+
+<img src='figures/2.png'> 
+<img src='figures/3.png'>
+<img src='figures/4.png'>
+<img src='figures/5.png'>
+<img src='figures/6.png'>
+<img src='figures/7.png'>
+<img src='figures/8.png'>
+<img src='figures/9.png'>
